@@ -1,1 +1,1 @@
-My portfolio
+This is just my portfolio, link is https://magical-frangollo-0875cd.netlify.app/

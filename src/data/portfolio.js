@@ -13,8 +13,8 @@ export default [
    },
    {
       title: 'Super Task Manager',
-      imgUrl: '/assets/placeholder.png', //upcoming
+      imgUrl: '/assets/SuperTaskManager.PNG', //upcoming
       stack: ['MongoDB', 'Express', 'React','Node'],
-      link: '/assets/placeholder.png', //upcoming
+      link: 'https://will-do-7ujl.onrender.com/', //upcoming
    },
 ]
